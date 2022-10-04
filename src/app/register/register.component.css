@@ -1,0 +1,12 @@
+.form-control.ng-invalid.ng-touched{
+    border: 2px solid orange;
+}
+.help-block{
+    color:red;
+}
+
+.btn1{
+    
+    margin-right: 200px;
+    margin-left: 200px;
+ }
